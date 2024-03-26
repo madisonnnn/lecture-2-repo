@@ -10,4 +10,4 @@ We want a local version of the repo so we can make offline updates, have a back 
 
 **What are the steps involved in the git workflow**
 
-You create a repo in git hub and then **git clone <ssh url>** which adds your repo to your local environment. Then you can edit your repo and use **git status** to check for changes. If you want to add your changes to git hub you'll write **git push**, **git add.** or **git add -A** and then **git commit -m "<title of commit>"**.
+You create a repo in git hub and then **git clone <ssh url>** which adds your repo to your local environment. Then you can edit your repo and use **git status** to check for changes. If you want to add your changes to git hub you'll write **git push**, **git add .** or **git add -A** and then **git commit -m "<title of commit>"**.
